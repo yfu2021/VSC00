@@ -34,6 +34,9 @@ print(b[-6:-2])
 a = 200
 b = 33
 
+
+
+
 if b >a:
     print('b is bigger than a')
 else:
@@ -59,3 +62,7 @@ print(bool({"","2","3"}))
 
 
 ## Save my current work, and push it to the github repository.
+
+
+
+### This is copied from other folder, and will be cloned to VSC00 local repository
