@@ -34,6 +34,8 @@ print(b[-6:-2])
 a = 200
 b = 33
 
+## After Logout, need to git confit -global user.email ""
+
 
 
 
