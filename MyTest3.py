@@ -66,3 +66,25 @@ print(bool({"","2","3"}))
 
 
 ### This is copied from other folder, and will be cloned to VSC00 local repository
+
+
+### Tomorrow I will switch to Gitea instead of github
+
+thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+print(thislist[:4])
+
+
+thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+print(thislist[-4:-1])
+
+
+thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+print(thislist[-4:])
+
+#Negative indexing means starting from the end of the list.
+
+#This example returns the items from index -4 (included) to index -1 (excluded)
+
+#Remember that the last item has the index -1,
+
+#Python list index the last index of the range does not include itself (exclude)
