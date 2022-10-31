@@ -90,3 +90,6 @@ print(thislist[-4:])
 #Remember that the last item has the index -1,
 
 #Python list index the last index of the range does not include itself (exclude)
+
+
+#### Just want to load local everyday
